@@ -9,10 +9,11 @@ This is a collection of Java scripts that I made my self that handle the boring 
 
 ## 🚀 How to Run This Mess
 
-1. **Option 1: Clone it** (steal it):
-   ```bash
-   git clone https://github.com/Actusis-Nricul/helobro4.git   ```
+Step 1: Requirements
 
-2.  **Option 2: Put it in your java game injector thingy**
+Must have latest/pretty new version of java
+Must have a java game installed (minecraft java edition, etc.) 
+Must have a brain, brain is very important in using computer code
 
-   Go to any of my hacking java tools and put it anywhere you want in games files or an injector
+Step 2: How to actually run it
+
