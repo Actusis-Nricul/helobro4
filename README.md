@@ -11,8 +11,8 @@ This is a collection of Java scripts that I made my self that handle the boring 
 
 1. **Option 1: Clone it** (steal it):
    ```bash
-   git clone https://github.com/Actusis-Nricul/helobro4.git   
-```
+   git clone https://github.com/Actusis-Nricul/helobro4.git   ```
 
 2.  **Option 2: Put it in your java game injector thingy**
-Go to any of my hacking java tools and put it anywhere you want in games files or an injector
+
+   Go to any of my hacking java tools and put it anywhere you want in games files or an injector
